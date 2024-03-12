@@ -1,0 +1,4 @@
+github.com/ChizhovVadim/CounterGo v1.55.0 h1:3u4AVXha1UXJMXH6Gg69TggXyH1QY45g+F8+bQAqTYw=
+github.com/ChizhovVadim/CounterGo v1.55.0/go.mod h1:0oDKx5Sd3HpkNt1Nm/d0SZPpScYl2w+6DQ1Mod9lQ74=
+golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 h1:uVc8UZUe6tr40fFVnUP5Oj+veunVezqYl9z7DYw9xzw=
+golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
